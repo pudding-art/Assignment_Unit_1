@@ -4,7 +4,7 @@
  [https://www.apple.com/cn/]() 
 
 
-[https://www.apple.com/cn/](a link to an external website)
+[https://www.apple.com/cn](a link to an external website)
 
 [./README.md](a link between markdown pages. Link from README.md to the second
 markdown file and from the second markdown file back to the README.md)
