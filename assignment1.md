@@ -9,7 +9,7 @@ a link to an external website：
 [https://github.com/pudding-art/Assignment_Unit_1/blob/main/README.md] (a link between markdown pages. Link from README.md to the second
 markdown file and from the second markdown file back to the README.md)
 
-[blob/main/README.md] (a link between markdown pages. Link from README.md to the second
+[./blob/main/README.md] (a link between markdown pages. Link from README.md to the second
 markdown file and from the second markdown file back to the README.md)
 
 ![an image that is a file in the directory](image.png)
